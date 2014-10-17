@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pse:home|Door43 (pse)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pse|d43-pse repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pse/archive/master.zip|d43-pse.zip]]
+
+**Recent Changes**
+{{changes>ns = pse}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pse|Ethnologue data]]
+
